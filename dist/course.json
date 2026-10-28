@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Control Valve Fundamentals",
+    "id": 1,
+    "topics": [
+      "Control valve function and operating principles",
+      "Gate, Globe, rotary and Diaphragm valves",
+      "Application of different valves.",
+      "Single-port and double-port designs",
+      "Valve body, trim, stem, packing, bonnet, and seat",
+      "Normally open, normally closed, and fail-safe positions"
+    ]
+  },
+  {
+    "title": "Flow Characteristics and Control Performance",
+    "id": 2,
+    "topics": [
+      "Inherent versus installed characteristics",
+      "Linear, equal-percentage, and quick-opening trims",
+      "Rangeability and turndown",
+      "Valve authority and controllability",
+      "Cavitation, flashing, noise, and vibration",
+      "Effects of piping reducers and fittings"
+    ]
+  },
+  {
+    "title": "Process Data and Sizing Fundamentals",
+    "id": 3,
+    "topics": [
+      "Required process inputs and operating cases",
+      "Liquid, gas, steam, and two-phase flow considerations",
+      "Density, specific gravity, viscosity, molecular weight and compressibility",
+      "Flow rate, inlet pressure, outlet pressure, temperature and pressure drop",
+      "Unit conversions and dimensional consistency",
+      "Minimum, normal, maximum and start-up cases"
+    ]
+  },
+  {
+    "title": "Control Valve Sizing Calculations",
+    "id": 4,
+    "topics": [
+      "Liquid sizing using \\(C_v\\) and \\(K_v\\)",
+      "Gas and steam sizing",
+      "Choked flow and critical pressure ratio",
+      "Liquid pressure recovery and piping geometry factors",
+      "Reynolds number and viscosity correction",
+      "Required versus selected valve capacity",
+      "Manual calculations versus software verification"
+    ]
+  },
+  {
+    "title": "Valve, Actuator and Accessory Selection",
+    "id": 5,
+    "topics": [
+      "Valve body size versus line size",
+      "Body and trim materials, pressure class and end connections",
+      "Pneumatic diaphragm and piston actuators",
+      "Spring return, air failure and position failure",
+      "Smart positioners, I/P converters, solenoid valves and limit switches",
+      "Actuator thrust, torque and seating requirements",
+      "Control valve versus ESD valve requirements"
+    ]
+  },
+  {
+    "title": "Advanced Applications and Standards",
+    "id": 6,
+    "topics": [
+      "Anti-cavitation and low-noise trim",
+      "High-pressure-drop and severe-service applications",
+      "Cryogenic, corrosive, erosive and high-temperature services",
+      "Control valve noise prediction and mitigation",
+      "IEC 60534 and ISA 75.01,… guidance",
+      "Pressure-temperature ratings and applicable material standards",
+      "Inspection, testing and documentation requirements"
+    ]
+  },
+  {
+    "title": "Sizing Software Workshop",
+    "id": 7,
+    "topics": [
+      "Create a valve sizing case",
+      "Enter process conditions and fluid properties",
+      "Run minimum, normal and maximum operating cases",
+      "Review calculated capacity, opening, velocity and noise",
+      "Select valve series, trim, actuator and accessories",
+      "Generate and check sizing reports",
+      "Investigate common sizing errors"
+    ]
+  },
+  {
+    "title": "EPC Project Deliverables and Capstone",
+    "id": 8,
+    "topics": [
+      "Control valve datasheets and specifications",
+      "Valve sizing calculation sheets",
+      "Technical bid evaluation (TBE)",
+      "Vendor document review",
+      "P&ID and instrument index coordination",
+      "Final project: size, select, document and defend three valves"
+    ]
+  }
+]
