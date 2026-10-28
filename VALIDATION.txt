@@ -15,3 +15,6 @@ Validation completed
 - Mahjoub Academy identity and bilingual enrollment section added.
 - Inquiry download tested in browser using example data; no message sent. Contact destinations remain intentionally empty pending user details.
 
+
+- Both five-page PDFs rendered and visually reviewed. Unicode Turkish text and page counts checked.
+- Browser verified both download links select the English or Turkish PDF with the language control.

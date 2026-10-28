@@ -24,3 +24,6 @@ The complete interface and all eight module outlines support Turkish and English
 ## Enrollment setup
 
 The inquiry form validates name and email and currently downloads a text draft; it does not submit or store leads. Configure the academy-approved email and/or international WhatsApp number in `dist/contact-config.js` when available. Configured channels open a draft for the visitor to review and send; there is no automatic email, database or payment. Keep the contact values empty until approved. The original syllabus is English; the interface and module outline are bilingual.
+
+## Course PDFs
+Two separately localized, five-page course programs are included in dist/mahjoub-academy-course-en.pdf and dist/mahjoub-academy-course-tr.pdf. Both download links follow the selected site language. The four-day allocation is identified as suggested. The source Word remains in the repository for reference.
