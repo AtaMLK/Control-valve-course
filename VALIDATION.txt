@@ -1,0 +1,8 @@
+Validation completed
+- Eight modules and their topics extracted from the supplied Word document.
+- Source syntax and required assets passed npm run build.
+- Browser checks passed: topic search, day filters, review progress persistence after reload, and linear/equal-percentage chart selection.
+- Desktop visual inspection completed.
+- Mobile-specific CSS is included; the browser viewport override did not apply, so mobile visual verification remains incomplete.
+- Git initialized on main with an initial commit.
+- GitHub creation and Vercel deployment require account sign-in; neither is complete.
