@@ -27,3 +27,11 @@ The inquiry form validates name and email and currently downloads a text draft; 
 
 ## Course PDFs
 Two separately localized, five-page course programs are included in dist/mahjoub-academy-course-en.pdf and dist/mahjoub-academy-course-tr.pdf. Both download links follow the selected site language. The four-day allocation is identified as suggested. The source Word remains in the repository for reference.
+
+## SEO and measurement
+
+Run `npm install` once and `npm run build`. Edit the page template in `src/index.html`; build.mjs generates fully rendered English and Turkish pages under /en/ and /tr/. Assets remain in dist/. Both routes include all eight modules before JavaScript, canonical and reciprocal hreflang, social metadata and Course/EducationalOrganization JSON-LD. Root canonicalizes to /en/. robots.txt, sitemap.xml and a factual llms.txt are generated. Change the origin in build.mjs when adopting a custom domain. Course dates, prices and accreditation are not invented. FAQ content describes known facts and explicitly unknown logistics. llms.txt is supplementary and gives no ranking guarantee.
+
+Measurement IDs remain empty in dist/measurement-config.js pending owner input. There is no live Analytics or Ads reporting yet. Basic consent prevents loading Google tags until relevant consent; personalization stays denied. Privacy preferences can be changed from the footer. No names, emails, form messages, or arbitrary query parameters are sent by the custom tracking. Disable automatic form interactions/enhanced measurement in the real GA4 property before activating it; the intended events are explicit and contain only enumerated language/channel values. Ads IDs and the conversion label are reserved, but no conversion is fired until an actual server-confirmed lead flow is implemented. A download or draft opening is not a completed lead. This site does not create or run paid campaigns.
+
+Events prepared: syllabus_download, enrollment_cta, inquiry_draft_download, contact_intent. Consent and preference tests passed with measurement disabled; actual Google delivery must be checked with Tag Assistant and GA4 DebugView once real IDs are supplied. Search Console ownership verification and sitemap submission remain owner-account tasks; no indexing or rank is guaranteed.

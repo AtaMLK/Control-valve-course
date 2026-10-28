@@ -18,3 +18,8 @@ Validation completed
 
 - Both five-page PDFs rendered and visually reviewed. Unicode Turkish text and page counts checked.
 - Browser verified both download links select the English or Turkish PDF with the language control.
+
+- Static /en/ and /tr/ pages, canonical, reciprocal hreflang, Course schema and PDF links validated.
+- Browser navigation, Turkish search, privacy dialog, and zero Google tag loading while disabled verified.
+- Vercel CLI 65.5.0 authenticated as atamlk; existing production project linked.
+- Real Analytics and Ads identifiers pending owner input; paid campaigns not configured.

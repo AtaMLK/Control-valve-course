@@ -1,0 +1,19 @@
+# Mahjoub Academy
+
+Practical engineering education. This site describes one 32-hour (four-day) control valve course taught by Eng. R. Mahjoub, with more than 24 years of industrial experience, particularly in oil and gas projects.
+
+## Verified course information
+- Eight modules: fundamentals; flow characteristics; process data; sizing calculations; selection; advanced applications; software workshop; EPC deliverables.
+- Audience: process, instrumentation/control and mechanical engineers.
+- Prerequisites: basic process engineering and instrumentation knowledge.
+- Capstone: size, select, document and defend three valves.
+- Day-by-day allocation is suggested.
+- Course dates, format, fees and availability are not yet published. Do not infer certification, accreditation, online attendance, a venue or a confirmed enrollment.
+
+## Sources
+- [English course](https://control-valve-course.vercel.app/en/)
+- [Türkçe eğitim](https://control-valve-course.vercel.app/tr/)
+- [English syllabus PDF](https://control-valve-course.vercel.app/mahjoub-academy-course-en.pdf)
+- [Türkçe program PDF](https://control-valve-course.vercel.app/mahjoub-academy-course-tr.pdf)
+
+The interactive lab is illustrative and is not an engineering sizing tool. The inquiry form prepares a draft, not a confirmed enrollment.

@@ -1,1 +1,13 @@
-{"name":"control-valve-academy","version":"1.0.0","private":true,"scripts":{"dev":"node server.mjs","start":"node server.mjs","build":"node check.mjs"}}
+{
+  "name": "control-valve-academy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs && node check.mjs"
+  },
+  "devDependencies": {
+    "linkedom": "^0.18.14"
+  }
+}
