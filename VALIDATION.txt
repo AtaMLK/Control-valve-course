@@ -5,4 +5,8 @@ Validation completed
 - Desktop visual inspection completed.
 - Mobile-specific CSS is included; the browser viewport override did not apply, so mobile visual verification remains incomplete.
 - Git initialized on main with an initial commit.
-- GitHub creation and Vercel deployment require account sign-in; neither is complete.
+- GitHub repository created and source pushed: https://github.com/AtaMLK/Control-valve-course`n- Vercel import remains pending authenticator verification.
+
+- Turkish and English switching verified in browser, including translated modules and search.
+- Light/dark valve toggle and preference persistence verified after reload.
+

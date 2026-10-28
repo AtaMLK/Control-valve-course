@@ -17,3 +17,6 @@ Import the Git repository in Vercel. Framework: Other; build command: `npm run b
 ## Content and scope
 
 The supplied document is a syllabus, not a full lesson textbook. Module wording, duration, prerequisites, audience and instructor bio come from the source. The four-day allocation is proposed. The lab is illustrative at constant pressure drop, not an engineering sizing calculator. Equal percentage uses rangeability 50, linear uses x, quick opening uses sqrt(x); no manufacturer performance is implied. No invented enrollment, payment, certification, reviews or contact information. FIELDNOTES is a proposed site identity, not a claimed organization. Fonts use Google Fonts with local system fallbacks. Progress is saved only in the current browser; no accounts or server storage.
+
+## Language and appearance
+The complete interface and all eight module outlines support Turkish and English. The header language selector and valve-inspired light/dark switch save preferences in this browser. The original downloadable Word syllabus remains English. The theme follows the system preference until the visitor chooses a theme.
